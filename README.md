@@ -1,6 +1,20 @@
-# Jogo da Cabeca
-O objetivo desse jogo consiste em possibilitar que dois amigos resolvam conflitos através de uma estimulante partida de futebol.</br>
+# Jogo da Cabeça - Build de Playtest 1.0.0
 
-No momento, estão implementadas as lógicas de movimentação e controle de colisão. Além disso, os sprites finais já estão disponíveis e animados. </br>
-Nessa build, poderá ser testado além da movimentação se os controles funcionam corretamente e se as animações são compatíveis com o estado do jogo.</br>
-Com o jogo finalizado a condição de vitória será definida pelo jogador que marcar mais gols num período de 60 segundos.</br>
+Dupla: Carlos Sabino & Marcelo Nascimento
+
+## Descrição do Jogo
+O "Jogo da Cabeça" visa resolver conflitos através de uma empolgante partida de futebol entre dois amigos. A build atual implementa lógicas de movimentação, controle de colisão e apresenta sprites finais animados.
+
+## Funcionalidades a Serem Testadas
+- **Movimentação dos Jogadores:** Certifique-se de que os jogadores respondem corretamente aos comandos de movimento.
+- **Controles:** Teste se os controles estão funcionando adequadamente para proporcionar uma experiência suave.
+- **Animações:** Verifique se as animações dos jogadores estão em sincronia com as ações e o estado atual do jogo.
+
+## Condições de Vitória e Derrota
+O jogador que marcar mais gols em um período de 60 segundos vence a partida.
+
+## Observações Adicionais
+- Os sprites finais estão implementados e animados, proporcionando uma experiência visual completa.
+- Forneça feedback específico sobre quaisquer problemas encontrados durante o playtest.
+
+
