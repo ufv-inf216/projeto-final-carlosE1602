@@ -1,0 +1,6 @@
+[
+	{ "name": "0", "x": 1, "y": 1, "width": 242, "height": 349 },
+	{ "name": "1", "x": 245, "y": 1, "width": 255, "height": 357 },
+	{ "name": "2", "x": 502, "y": 1, "width": 349, "height": 242 },
+	{ "name": "3", "x": 853, "y": 1, "width": 306, "height": 355 }
+]
